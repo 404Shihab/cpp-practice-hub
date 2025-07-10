@@ -1,7 +1,9 @@
-#include<iostream>
+#include<iostream> // Input-output stream header
 using namespace std;
 int main()
 {
-    cout << "Hello World!!";
-    return 0;
+    // Print message to console
+    cout << "Hello World!!"; 
+    
+    return 0; // Exit the program
 }
